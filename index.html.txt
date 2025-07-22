@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <titlePara da con gusto</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Para da con gusto</h1>
+    <nav>
+      <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="inicio">
+    <h2>Bienvenido a Para da con gusto</h2>
+    <p>Tu sitio para disfrutar con buen sabor y estilo.</p>
+  </section>
+
+  <section id="sobre-nosotros">
+    <h2>Sobre Nosotros</h2>
+    <p>Somos un equipo dedicado a compartir las mejores experiencias culinarias.</p>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Email: contacto@paradacongusto.com</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Para da con gusto - Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
